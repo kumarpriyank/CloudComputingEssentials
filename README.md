@@ -1,7 +1,7 @@
 # CloudComputingEssentials
 
-* Overview : Introduction to Clouds, MapReduce
-** Intro to Clouds
+#* Overview : Introduction to Clouds, MapReduce
+#* Intro to Clouds
 ** Clouds & Distributed Systems
 ** MapReduce
 ** HomeWork 1
